@@ -5,33 +5,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : une bibliothèque.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une bibliothèque",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a library.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a library",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -40,33 +42,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : un parc.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un parc",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a park.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a park",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -75,33 +79,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : une salle municipale.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une salle municipale",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a community hall.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a community hall",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -110,33 +116,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : un centre sportif.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un centre sportif",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a sports centre.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a sports centre",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -145,33 +153,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : une gare.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une gare",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a station.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a station",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -180,33 +190,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : une école de musique.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une école de musique",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a music school.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a music school",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -215,33 +227,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : un musée.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un musée",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a museum.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a museum",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -250,33 +264,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Justice et sanctions",
-      "context": "Contexte : une résidence collective.",
-      "action": "a dégradé volontairement un bien collectif. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une résidence collective",
+      "action": "abîme exprès un bien collectif. Les faits sont prouvés.",
       "identities": [
         "une personne aisée",
         "une personne aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Justice and penalties",
-      "context": "Setting: a shared residence.",
-      "action": "deliberately damaged shared property. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a shared residence",
+      "action": "deliberately damages shared property. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a person on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -285,33 +301,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : une rue.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une rue",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a street.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a street",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -320,33 +338,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : un parking.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un parking",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a car park.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a car park",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -355,33 +375,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : une fête.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une fête",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a party.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a party",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -390,33 +412,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : un restaurant.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un restaurant",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a restaurant.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a restaurant",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -425,33 +449,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : une gare.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une gare",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a station.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a station",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -460,33 +486,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : un hall résidentiel.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un hall résidentiel",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a residential lobby.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a residential lobby",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -495,33 +523,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : un jardin.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un jardin",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a garden.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a garden",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -530,33 +560,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Agression physique",
-      "context": "Contexte : un arrêt de bus.",
-      "action": "a giflé son partenaire après une dispute verbale. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un arrêt de bus",
+      "action": "gifle son partenaire après une dispute. Aucun coup avant. Une vidéo confirme les faits.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Physical assault",
-      "context": "Setting: a bus stop.",
-      "action": "slapped their partner after a verbal argument. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a bus stop",
+      "action": "slaps their partner after an argument. No earlier physical violence. A video confirms it.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -565,33 +597,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : une association.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "une association",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: an association.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "an association",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -600,33 +634,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : un club sportif.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "un club sportif",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a sports club.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a sports club",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -635,33 +671,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : un festival.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "un festival",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a festival.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a festival",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -670,33 +708,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : une entreprise.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "une entreprise",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a company.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a company",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -705,33 +745,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : une université.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "une université",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a university.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a university",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -740,33 +782,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : un théâtre.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "un théâtre",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a theatre.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a theatre",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -775,33 +819,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : un atelier artistique.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "un atelier artistique",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: an art workshop.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "an art workshop",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -810,33 +856,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Accusation de violence sexuelle",
-      "context": "Contexte : un organisme de formation.",
-      "action": "fait l’objet d’un signalement de violence sexuelle; une enquête indépendante est en cours et les faits ne sont pas encore établis.",
+      "context": "un organisme de formation",
+      "action": "est accusée de violence sexuelle. L’enquête est en cours. Les faits ne sont pas encore établis.",
       "identities": [
         "une personnalité connue",
         "une personne inconnue du public"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Sexual violence allegation",
-      "context": "Setting: a training organisation.",
-      "action": "is the subject of a sexual violence report; an independent investigation is ongoing and the facts have not yet been established.",
+      "context": "a training organisation",
+      "action": "is accused of sexual violence. An investigation is ongoing. The facts are not yet established.",
       "identities": [
         "a public figure",
         "a person unknown to the public"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -845,33 +893,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : un club de sport.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "un club de sport",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a sports club.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a sports club",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -880,33 +930,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : un centre de loisirs.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "un centre de loisirs",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a recreation centre.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a recreation centre",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -915,33 +967,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : une école de musique.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "une école de musique",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a music school.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a music school",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -950,33 +1004,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : une association culturelle.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "une association culturelle",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a cultural association.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a cultural association",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -985,33 +1041,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : un camp de vacances.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "un camp de vacances",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a holiday camp.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a holiday camp",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -1020,33 +1078,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : une troupe de théâtre.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "une troupe de théâtre",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a theatre group.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a theatre group",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -1055,33 +1115,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : un atelier de dessin.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "un atelier de dessin",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a drawing workshop.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a drawing workshop",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -1090,33 +1152,35 @@ export const scenarios = [
     "sensitive": true,
     "fr": {
       "title": "Protection des mineurs",
-      "context": "Contexte : un club scientifique.",
-      "action": "fait l’objet d’un signalement d’abus sur un mineur; une enquête est ouverte et cette personne encadre des jeunes.",
+      "context": "un club scientifique",
+      "action": "est soupçonné d’abus sur un mineur et encadre des jeunes. Une enquête est en cours. Les faits ne sont pas établis.",
       "identities": [
         "un adulte très apprécié",
         "un adulte récemment arrivé"
       ],
       "options": [
-        "Protection immédiate et enquête impartiale",
-        "Enquête avec mesures de protection limitées",
-        "Attendre les conclusions avant toute mesure",
-        "Ne pas donner suite au signalement"
-      ]
+        "Protéger + enquêter",
+        "Protection limitée + enquête",
+        "Attendre l’enquête",
+        "Ne rien faire"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Protecting minors",
-      "context": "Setting: a science club.",
-      "action": "is the subject of a report of abuse of a minor; an investigation is open and this person supervises young people.",
+      "context": "a science club",
+      "action": "is suspected of abusing a minor and supervises young people. An investigation is ongoing. The facts are not established.",
       "identities": [
         "a well-liked adult",
         "an adult who recently joined"
       ],
       "options": [
-        "Immediate protection and an impartial investigation",
-        "Investigation with limited protective measures",
-        "Wait for findings before any measures",
-        "Take no action on the report"
-      ]
+        "Protect + investigate",
+        "Limited protection + inquiry",
+        "Wait for findings",
+        "Do nothing"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -1125,33 +1189,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un hôtel.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un hôtel",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a hotel.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a hotel",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1160,33 +1226,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un restaurant.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un restaurant",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a restaurant.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a restaurant",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1195,33 +1263,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un centre sportif.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un centre sportif",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a sports centre.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a sports centre",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1230,33 +1300,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un salon de coiffure.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un salon de coiffure",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a hair salon.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a hair salon",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1265,33 +1337,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un atelier de cuisine.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un atelier de cuisine",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a cooking workshop.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a cooking workshop",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1300,33 +1374,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : un espace de travail.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "un espace de travail",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a workspace.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a workspace",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1335,33 +1411,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : une salle de spectacle.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "une salle de spectacle",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: a performance venue.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "a performance venue",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1370,33 +1448,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Origines et traitement",
-      "context": "Contexte : une excursion.",
-      "action": "a été écartée d’un service malgré une réservation valide, après avoir demandé calmement une explication.",
+      "context": "une excursion",
+      "action": "se voit refuser un service malgré une réservation valide. Sa demande était calme.",
       "identities": [
         "une personne née dans le pays",
         "une personne née à l’étranger"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Background and treatment",
-      "context": "Setting: an excursion.",
-      "action": "was denied a service despite a valid reservation, after calmly asking for an explanation.",
+      "context": "an excursion",
+      "action": "is refused a service despite a valid booking. Their request was calm.",
       "identities": [
         "a person born locally",
         "a person born abroad"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1405,33 +1485,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : une réunion associative.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une réunion associative",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: an association meeting.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an association meeting",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1440,33 +1522,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : une préparation de fête.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une préparation de fête",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: party preparations.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "party preparations",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1475,33 +1559,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : une collecte alimentaire.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une collecte alimentaire",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a food collection.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a food collection",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1510,33 +1596,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : un atelier.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un atelier",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a workshop.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a workshop",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1545,33 +1633,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : une répétition.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une répétition",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a rehearsal.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a rehearsal",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1580,33 +1670,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : une journée de bénévolat.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une journée de bénévolat",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a volunteering day.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a volunteering day",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1615,33 +1707,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : un événement scolaire.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un événement scolaire",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a school event.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a school event",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1650,33 +1744,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Genre et responsabilités",
-      "context": "Contexte : un déménagement collectif.",
-      "action": "a refusé une tâche collective convenue pour partir plus tôt, sans urgence particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un déménagement collectif",
+      "action": "part plus tôt et laisse aux autres sa part du travail. Aucune urgence.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Gender and responsibility",
-      "context": "Setting: a group move.",
-      "action": "declined an agreed shared task to leave early, without a particular emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a group move",
+      "action": "leaves early and leaves their share of work to others. No emergency.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -1685,33 +1781,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un studio.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un studio",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a studio.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a studio",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1720,33 +1818,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un appartement familial.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un appartement familial",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a family apartment.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a family apartment",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1755,33 +1855,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : une colocation.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "une colocation",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a shared flat.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a shared flat",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1790,33 +1892,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : une maison.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "une maison",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a house.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a house",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1825,33 +1929,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un logement étudiant.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un logement étudiant",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: student housing.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "student housing",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1860,33 +1966,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un duplex.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un duplex",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a duplex.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a duplex",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1895,33 +2003,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un logement temporaire.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un logement temporaire",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: temporary housing.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "temporary housing",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1930,33 +2040,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Location et logement",
-      "context": "Contexte : un appartement meublé.",
-      "action": "s’est vu refuser un logement après avoir fourni un dossier remplissant tous les critères publiés.",
+      "context": "un appartement meublé",
+      "action": "se voit refuser un logement. Son dossier respecte tous les critères.",
       "identities": [
         "une personne portant un nom local",
         "une personne portant un nom à consonance étrangère"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Renting and housing",
-      "context": "Setting: a furnished apartment.",
-      "action": "was refused housing after supplying an application meeting every published criterion.",
+      "context": "a furnished apartment",
+      "action": "is refused housing. Their application meets every requirement.",
       "identities": [
         "a person with a local-sounding name",
         "a person with a foreign-sounding name"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -1965,33 +2077,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une librairie.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une librairie",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a bookshop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a bookshop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2000,33 +2114,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une épicerie.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une épicerie",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a grocery shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a grocery shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2035,33 +2151,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une boutique de vêtements.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une boutique de vêtements",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a clothing shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a clothing shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2070,33 +2188,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : un magasin de sport.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "un magasin de sport",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a sports shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a sports shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2105,33 +2225,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une pharmacie.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une pharmacie",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a pharmacy.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a pharmacy",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2140,33 +2262,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une boutique informatique.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une boutique informatique",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a computer shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a computer shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2175,33 +2299,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : une bijouterie.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "une bijouterie",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a jewellery shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a jewellery shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2210,33 +2336,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Accueil en magasin",
-      "context": "Contexte : un magasin de jouets.",
-      "action": "a été suivie par le personnel sans comportement suspect; les autres clients n’ont pas subi ce traitement.",
+      "context": "un magasin de jouets",
+      "action": "est suivie par le personnel, sans comportement suspect. Les autres clients ne le sont pas.",
       "identities": [
         "une personne en costume",
         "une personne en survêtement"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Shop service",
-      "context": "Setting: a toy shop.",
-      "action": "was followed by staff without suspicious behaviour; other customers were not treated this way.",
+      "context": "a toy shop",
+      "action": "is followed by staff without suspicious behaviour. Other customers are not.",
       "identities": [
         "a person wearing a suit",
         "a person wearing a tracksuit"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2245,33 +2373,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : une boutique de souvenirs.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une boutique de souvenirs",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a souvenir shop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a souvenir shop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2280,33 +2410,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : une librairie.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une librairie",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a bookshop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a bookshop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2315,33 +2447,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : un magasin de décoration.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un magasin de décoration",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a homeware shop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a homeware shop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2350,33 +2484,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : un marché.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un marché",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a market.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a market",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2385,33 +2521,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : une boutique de sport.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une boutique de sport",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a sports shop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a sports shop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2420,33 +2558,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : une boutique de jeux.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une boutique de jeux",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a games shop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a games shop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2455,33 +2595,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : un magasin de musique.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un magasin de musique",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a music shop.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a music shop",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2490,33 +2632,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Vols et argent",
-      "context": "Contexte : une supérette.",
-      "action": "a pris volontairement un objet de 40 euros sans payer; l’objet a été récupéré intact. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une supérette",
+      "action": "vole un objet de 40 €. L’objet est récupéré intact. Les faits sont prouvés.",
       "identities": [
         "une personne riche",
         "une personne pauvre"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Theft and money",
-      "context": "Setting: a convenience store.",
-      "action": "deliberately took a €40 item without paying; it was recovered intact. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a convenience store",
+      "action": "steals a €40 item. It is recovered intact. The facts are proven.",
       "identities": [
         "a wealthy person",
         "a poor person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2525,33 +2669,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours de sciences.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours de sciences",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a science class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a science class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2560,33 +2706,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours de littérature.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours de littérature",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a literature class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a literature class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2595,33 +2743,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours d’histoire.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours d’histoire",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a history class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a history class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2630,33 +2780,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours de géographie.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours de géographie",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a geography class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a geography class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2665,33 +2817,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours de langues.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours de langues",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a language class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a language class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2700,33 +2854,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours de philosophie.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours de philosophie",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a philosophy class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a philosophy class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2735,33 +2891,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours d’économie.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours d’économie",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: an economics class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an economics class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2770,33 +2928,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "École et éducation",
-      "context": "Contexte : un cours d’informatique.",
-      "action": "a remis un devoir copié intégralement; les preuves sont confirmées et il s’agit d’un premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cours d’informatique",
+      "action": "rend un devoir entièrement copié. C’est la première fois. Les faits sont prouvés.",
       "identities": [
         "un élève habituellement excellent",
         "un élève habituellement en difficulté"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "School and education",
-      "context": "Setting: a computing class.",
-      "action": "submitted entirely copied coursework; the evidence is confirmed and this is a first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a computing class",
+      "action": "submits entirely copied homework. It is their first offence. The facts are proven.",
       "identities": [
         "a usually excellent student",
         "a student who usually struggles"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -2805,33 +2965,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : un cabinet comptable.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "un cabinet comptable",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: an accounting firm.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "an accounting firm",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2840,33 +3002,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : un laboratoire.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "un laboratoire",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a laboratory.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a laboratory",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2875,33 +3039,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : une agence de communication.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "une agence de communication",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a communications agency.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a communications agency",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2910,33 +3076,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : un atelier technique.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "un atelier technique",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a technical workshop.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a technical workshop",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2945,33 +3113,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : une entreprise de logistique.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "une entreprise de logistique",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a logistics company.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a logistics company",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -2980,33 +3150,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : un bureau d’études.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "un bureau d’études",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a design office.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a design office",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3015,33 +3187,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : une équipe informatique.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "une équipe informatique",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: an IT team.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "an IT team",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3050,33 +3224,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Recrutement et emploi",
-      "context": "Contexte : une structure culturelle.",
-      "action": "a reçu un refus lors d’un recrutement malgré des compétences et une expérience correspondant exactement au poste.",
+      "context": "une structure culturelle",
+      "action": "se voit refuser un poste. Son expérience et ses compétences correspondent au poste.",
       "identities": [
         "une candidate",
         "un candidat"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Hiring and employment",
-      "context": "Setting: a cultural organisation.",
-      "action": "was rejected in recruitment despite skills and experience that exactly match the role.",
+      "context": "a cultural organisation",
+      "action": "is turned down for a job. Their experience and skills match the role.",
       "identities": [
         "a female applicant",
         "a male applicant"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3085,33 +3261,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple vivant ensemble.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple vivant ensemble",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a cohabiting couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a cohabiting couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3120,33 +3298,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple à distance.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple à distance",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a long-distance couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a long-distance couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3155,33 +3335,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple marié.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple marié",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a married couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a married couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3190,33 +3372,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple fiancé.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple fiancé",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: an engaged couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an engaged couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3225,33 +3409,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple de longue durée.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple de longue durée",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a long-term couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a long-term couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3260,33 +3446,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple récemment installé.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple récemment installé",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a recently settled couple.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a recently settled couple",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3295,33 +3483,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple sans enfants.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple sans enfants",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a couple without children.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a couple without children",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3330,33 +3520,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Couple et fidélité",
-      "context": "Contexte : un couple ayant des enfants.",
-      "action": "a caché une relation amoureuse parallèle pendant trois mois, malgré un engagement explicite d’exclusivité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un couple ayant des enfants",
+      "action": "cache une autre relation depuis trois mois. Le couple avait promis la fidélité.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Relationships and fidelity",
-      "context": "Setting: a couple with children.",
-      "action": "hid a parallel romantic relationship for three months, despite an explicit exclusivity agreement. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a couple with children",
+      "action": "hides another relationship for three months. The couple agreed to be exclusive.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3365,33 +3557,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une représentation scolaire.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une représentation scolaire",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a school performance.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a school performance",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3400,33 +3594,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : un rendez-vous sportif.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un rendez-vous sportif",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a sports appointment.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a sports appointment",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3435,33 +3631,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : un atelier créatif.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un atelier créatif",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a creative workshop.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a creative workshop",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3470,33 +3668,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une fête d’école.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une fête d’école",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a school celebration.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a school celebration",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3505,33 +3705,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une sortie au musée.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une sortie au musée",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a museum outing.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a museum outing",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3540,33 +3742,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une séance de cinéma.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une séance de cinéma",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a cinema trip.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a cinema trip",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3575,33 +3779,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une activité musicale.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une activité musicale",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a music activity.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a music activity",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3610,33 +3816,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Parentalité",
-      "context": "Contexte : une promenade prévue.",
-      "action": "a oublié un engagement avec son enfant pour une sortie de loisir; un autre adulte était présent et l’enfant était en sécurité. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une promenade prévue",
+      "action": "oublie une activité promise à son enfant pour une sortie. L’enfant reste en sécurité avec un adulte.",
       "identities": [
         "un père",
         "une mère"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Parenting",
-      "context": "Setting: a planned walk.",
-      "action": "forgot a commitment with their child for a leisure outing; another adult was present and the child was safe. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a planned walk",
+      "action": "forgets an activity promised to their child to go out. The child is safe with another adult.",
       "identities": [
         "a father",
         "a mother"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3645,33 +3853,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : une gare.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "une gare",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a station.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a station",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3680,33 +3890,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : une place publique.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "une place publique",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a public square.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a public square",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3715,33 +3927,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : un parc.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "un parc",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a park.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a park",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3750,33 +3964,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : une avenue.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "une avenue",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: an avenue.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "an avenue",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3785,33 +4001,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : un parking.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "un parking",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a car park.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a car park",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3820,33 +4038,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : une rue commerçante.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "une rue commerçante",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a shopping street.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a shopping street",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3855,33 +4075,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : un arrêt de tram.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "un arrêt de tram",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: a tram stop.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "a tram stop",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3890,33 +4112,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Police et contrôles",
-      "context": "Contexte : une promenade urbaine.",
-      "action": "a été contrôlée sans motif individuel communiqué, alors que les autres passants ont pu continuer.",
+      "context": "une promenade urbaine",
+      "action": "est contrôlée sans motif communiqué. Les autres passants continuent.",
       "identities": [
         "une personne en tenue soignée",
         "une personne en tenue usée"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Police checks",
-      "context": "Setting: an urban walkway.",
-      "action": "was stopped without an individual reason being communicated while other passers-by could continue.",
+      "context": "an urban walkway",
+      "action": "is stopped with no reason given. Other passers-by keep walking.",
       "identities": [
         "a neatly dressed person",
         "a person in worn clothing"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -3925,33 +4149,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un guichet municipal.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un guichet municipal",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a municipal counter.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a municipal counter",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3960,33 +4186,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : une billetterie.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une billetterie",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a ticket office.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a ticket office",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -3995,33 +4223,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un accueil administratif.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un accueil administratif",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: an administrative desk.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an administrative desk",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4030,33 +4260,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : une caisse.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une caisse",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a checkout.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a checkout",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4065,33 +4297,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un point de retrait.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un point de retrait",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a collection point.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a collection point",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4100,33 +4334,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un vestiaire.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un vestiaire",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a cloakroom.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a cloakroom",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4135,33 +4371,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un contrôle d’entrée.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un contrôle d’entrée",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: an entrance check.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an entrance check",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4170,33 +4408,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Richesse et privilèges",
-      "context": "Contexte : un bureau de poste.",
-      "action": "a contourné une file en prétendant que son temps comptait davantage; aucune urgence n’était en jeu. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un bureau de poste",
+      "action": "double la file : « Mon temps compte plus. » Aucune urgence.",
       "identities": [
         "une dirigeante fortunée",
         "une employée aux revenus modestes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Wealth and privilege",
-      "context": "Setting: a post office.",
-      "action": "jumped a queue claiming their time mattered more; there was no emergency. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a post office",
+      "action": "jumps the queue: “My time matters more.” No emergency.",
       "identities": [
         "a wealthy executive",
         "an employee on a low income"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4205,33 +4445,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : un atelier de photographie.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "un atelier de photographie",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a photography workshop.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a photography workshop",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4240,33 +4482,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : un groupe de lecture.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "un groupe de lecture",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a reading group.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a reading group",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4275,33 +4519,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : une formation numérique.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "une formation numérique",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a digital training course.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a digital training course",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4310,33 +4556,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : une chorale.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "une chorale",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a choir.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a choir",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4345,33 +4593,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : une réunion de quartier.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "une réunion de quartier",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a neighbourhood meeting.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a neighbourhood meeting",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4380,33 +4630,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : un atelier de cuisine.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "un atelier de cuisine",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a cooking workshop.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a cooking workshop",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4415,33 +4667,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : un club d’échecs.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "un club d’échecs",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a chess club.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a chess club",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4450,33 +4704,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Handicap et inclusion",
-      "context": "Contexte : une activité de jardinage.",
-      "action": "a été exclue d’une activité malgré une aptitude vérifiée et sans risque supplémentaire identifié.",
+      "context": "une activité de jardinage",
+      "action": "est exclue d’une activité. Elle a les capacités nécessaires. Aucun risque supplémentaire.",
       "identities": [
         "une personne ayant un handicap visible",
         "une personne sans handicap visible"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Disability and inclusion",
-      "context": "Setting: a gardening activity.",
-      "action": "was excluded from an activity despite verified ability and no identified additional risk.",
+      "context": "a gardening activity",
+      "action": "is excluded from an activity. They have the required ability. No additional risk.",
       "identities": [
         "a person with a visible disability",
         "a person without a visible disability"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -4485,33 +4741,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : un immeuble résidentiel.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un immeuble résidentiel",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: an apartment building.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an apartment building",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4520,33 +4778,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : une résidence étudiante.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une résidence étudiante",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a student residence.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a student residence",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4555,33 +4815,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : une maison mitoyenne.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une maison mitoyenne",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a terraced house.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a terraced house",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4590,33 +4852,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : un lotissement.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un lotissement",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a housing estate.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a housing estate",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4625,33 +4889,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : une cour partagée.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une cour partagée",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a shared courtyard.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a shared courtyard",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4660,33 +4926,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : une petite copropriété.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une petite copropriété",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a small condominium.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a small condominium",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4695,33 +4963,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : un logement de fonction.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un logement de fonction",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: staff housing.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "staff housing",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4730,33 +5000,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Immigration et voisinage",
-      "context": "Contexte : une location saisonnière.",
-      "action": "a organisé une fête bruyante après minuit malgré une demande calme des voisins; c’est le premier incident. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une location saisonnière",
+      "action": "fait du bruit après minuit malgré la demande des voisins. C’est la première fois.",
       "identities": [
         "une personne installée depuis toujours dans le pays",
         "une personne récemment immigrée"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Immigration and neighbours",
-      "context": "Setting: a holiday rental.",
-      "action": "held a noisy party after midnight despite a calm request from neighbours; this is the first incident. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a holiday rental",
+      "action": "makes noise after midnight despite the neighbours’ request. It is the first incident.",
       "identities": [
         "a lifelong resident of the country",
         "a recent immigrant"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -4765,33 +5037,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : une formation.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "une formation",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: a training course.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "a training course",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4800,33 +5074,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : une activité associative.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "une activité associative",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: an association activity.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "an association activity",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4835,33 +5111,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : un examen.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "un examen",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: an examination.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "an examination",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4870,33 +5148,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : un atelier.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "un atelier",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: a workshop.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "a workshop",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4905,33 +5185,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : une réunion de travail.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "une réunion de travail",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: a work meeting.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "a work meeting",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4940,33 +5222,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : une séance de bénévolat.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "une séance de bénévolat",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: a volunteering session.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "a volunteering session",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -4975,33 +5259,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : une répétition.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "une répétition",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: a rehearsal.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "a rehearsal",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -5010,33 +5296,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Religions et croyances",
-      "context": "Contexte : un rendez-vous administratif.",
-      "action": "a demandé un aménagement d’horaire sans coût supplémentaire ni conséquence pour les autres; le règlement autorise ce type de demande.",
+      "context": "un rendez-vous administratif",
+      "action": "demande un autre horaire. Le règlement le permet. Aucun coût ni effet sur les autres.",
       "identities": [
         "une personne pratiquant une religion majoritaire",
         "une personne pratiquant une religion minoritaire"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Religion and beliefs",
-      "context": "Setting: an administrative appointment.",
-      "action": "requested a schedule adjustment with no additional cost or impact on others; the rules allow this kind of request.",
+      "context": "an administrative appointment",
+      "action": "asks for a different time. The rules allow it. No extra cost or impact on others.",
       "identities": [
         "a person practising a majority religion",
         "a person practising a minority religion"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -5045,33 +5333,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : un centre de soins.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "un centre de soins",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a care centre.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a care centre",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5080,33 +5370,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : un cabinet médical.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "un cabinet médical",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a medical practice.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a medical practice",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5115,33 +5407,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : une permanence médicale.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "une permanence médicale",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: an urgent care clinic.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "an urgent care clinic",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5150,33 +5444,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : une consultation hospitalière.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "une consultation hospitalière",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a hospital consultation.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a hospital consultation",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5185,33 +5481,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : un service de garde.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "un service de garde",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: an out-of-hours service.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "an out-of-hours service",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5220,33 +5518,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : une clinique.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "une clinique",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a clinic.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a clinic",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5255,33 +5555,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : un centre de santé étudiant.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "un centre de santé étudiant",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a student health centre.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a student health centre",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5290,33 +5592,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Santé et soins",
-      "context": "Contexte : une consultation de proximité.",
-      "action": "a vu sa douleur minimisée avant tout examen; la demande était calme et les symptômes nécessitaient une évaluation.",
+      "context": "une consultation de proximité",
+      "action": "signale une douleur. On la minimise sans examen, alors qu’elle doit être évaluée.",
       "identities": [
         "un homme",
         "une femme"
       ],
       "options": [
-        "Un traitement clairement injustifié",
-        "Un traitement plutôt injustifié",
-        "Un traitement plutôt justifié",
-        "Un traitement tout à fait justifié"
-      ]
+        "Pas juste du tout",
+        "Plutôt injuste",
+        "Plutôt justifié",
+        "Tout à fait justifié"
+      ],
+      "prompt": "C’est juste ?"
     },
     "en": {
       "title": "Health and care",
-      "context": "Setting: a local health consultation.",
-      "action": "had their pain dismissed before any examination; the request was calm and the symptoms required assessment.",
+      "context": "a local health consultation",
+      "action": "reports pain. It is dismissed without an examination, even though assessment is needed.",
       "identities": [
         "a man",
         "a woman"
       ],
       "options": [
-        "Clearly unjustified treatment",
-        "Mostly unjustified treatment",
-        "Mostly justified treatment",
-        "Entirely justified treatment"
-      ]
+        "Totally unfair",
+        "Mostly unfair",
+        "Mostly justified",
+        "Fully justified"
+      ],
+      "prompt": "Is this fair?"
     }
   },
   {
@@ -5325,33 +5629,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : une association sportive.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "une association sportive",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a sports association.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a sports association",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5360,33 +5666,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : une caisse de solidarité.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "une caisse de solidarité",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a solidarity fund.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a solidarity fund",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5395,33 +5703,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : un club culturel.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "un club culturel",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a cultural club.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a cultural club",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5430,33 +5740,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : un collectif de quartier.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "un collectif de quartier",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a neighbourhood group.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a neighbourhood group",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5465,33 +5777,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : une coopérative.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "une coopérative",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a cooperative.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a cooperative",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5500,33 +5814,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : une association étudiante.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "une association étudiante",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a student association.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a student association",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5535,33 +5851,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : un comité de fête.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "un comité de fête",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a festival committee.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a festival committee",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5570,33 +5888,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Rumeurs et accusations",
-      "context": "Contexte : un groupe de bénévoles.",
-      "action": "a été accusée publiquement de détournement d’argent sans preuve disponible; une vérification est en cours.",
+      "context": "un groupe de bénévoles",
+      "action": "est accusée de détourner de l’argent. Aucune preuve disponible. Une vérification est en cours.",
       "identities": [
         "une personne populaire",
         "une personne impopulaire"
       ],
       "options": [
-        "Suspendre son jugement et vérifier les faits",
-        "Exprimer des réserves sans conclure",
-        "Considérer l’accusation comme probablement vraie",
-        "Considérer l’accusation comme certainement vraie"
-      ]
+        "Vérifier avant de juger",
+        "Garder des réserves",
+        "Croire l’accusation",
+        "Être certain de la faute"
+      ],
+      "prompt": "Ta réaction ?"
     },
     "en": {
       "title": "Rumours and allegations",
-      "context": "Setting: a volunteer group.",
-      "action": "was publicly accused of misusing money without available evidence; an audit is ongoing.",
+      "context": "a volunteer group",
+      "action": "is accused of misusing money. No evidence is available. An audit is ongoing.",
       "identities": [
         "a popular person",
         "an unpopular person"
       ],
       "options": [
-        "Suspend judgement and verify the facts",
-        "Express reservations without concluding",
-        "Treat the allegation as probably true",
-        "Treat the allegation as certainly true"
-      ]
+        "Check before judging",
+        "Keep an open mind",
+        "Believe the allegation",
+        "Be certain of guilt"
+      ],
+      "prompt": "Your reaction?"
     }
   },
   {
@@ -5605,33 +5925,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : un café.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un café",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a café.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a café",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5640,33 +5962,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : un hôtel.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un hôtel",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a hotel.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a hotel",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5675,33 +5999,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : un restaurant.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un restaurant",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a restaurant.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a restaurant",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5710,33 +6036,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : une agence de voyage.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une agence de voyage",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a travel agency.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a travel agency",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5745,33 +6073,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : un cinéma.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un cinéma",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a cinema.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a cinema",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5780,33 +6110,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : une salle de sport.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une salle de sport",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a gym.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a gym",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5815,33 +6147,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : un service de livraison.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un service de livraison",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a delivery service.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a delivery service",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5850,33 +6184,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Beauté et apparence",
-      "context": "Contexte : une boutique.",
-      "action": "a insulté un membre du personnel après une erreur rapidement corrigée; les paroles sont confirmées. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une boutique",
+      "action": "insulte un employé pour une erreur déjà corrigée. Les faits sont prouvés.",
       "identities": [
         "une personne jugée très attirante",
         "une personne jugée peu attirante"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Looks and appearance",
-      "context": "Setting: a shop.",
-      "action": "insulted a staff member after an error that was quickly corrected; the words are confirmed. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a shop",
+      "action": "insults an employee over an error already corrected. The facts are proven.",
       "identities": [
         "a person considered very attractive",
         "a person considered unattractive"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5885,33 +6221,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : un groupe de discussion.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un groupe de discussion",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a discussion group.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a discussion group",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5920,33 +6258,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : une plateforme vidéo.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une plateforme vidéo",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a video platform.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a video platform",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5955,33 +6295,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : un forum de loisirs.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un forum de loisirs",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a hobby forum.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a hobby forum",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -5990,33 +6332,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : une communauté de jeux.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une communauté de jeux",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a gaming community.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a gaming community",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6025,33 +6369,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : un réseau professionnel.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un réseau professionnel",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a professional network.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a professional network",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6060,33 +6406,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : une communauté artistique.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une communauté artistique",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: an artistic community.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an artistic community",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6095,33 +6443,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : un fil public.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un fil public",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: a public feed.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a public feed",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6130,33 +6480,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Réseaux sociaux",
-      "context": "Contexte : une page associative.",
-      "action": "a publié un message humiliant visant une autre personne; le message ne contient ni menace ni information privée. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une page associative",
+      "action": "publie un message humiliant sur quelqu’un. Ni menace, ni information privée.",
       "identities": [
         "une créatrice suivie par un million de personnes",
         "une créatrice suivie par cinquante personnes"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Social media",
-      "context": "Setting: an association page.",
-      "action": "published a humiliating message targeting another person; it contains neither threats nor private information. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "an association page",
+      "action": "posts a humiliating message about someone. No threats or private information.",
       "identities": [
         "a creator with a million followers",
         "a creator with fifty followers"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6165,33 +6517,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : une distribution alimentaire.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "une distribution alimentaire",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: a food distribution.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "a food distribution",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6200,33 +6554,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : une aide au transport.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "une aide au transport",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: transport assistance.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "transport assistance",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6235,33 +6591,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : un prêt de matériel.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "un prêt de matériel",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: an equipment loan.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "an equipment loan",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6270,33 +6628,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : une permanence de conseil.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "une permanence de conseil",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: an advice session.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "an advice session",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6305,33 +6665,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : une aide aux démarches.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "une aide aux démarches",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: help with paperwork.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "help with paperwork",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6340,33 +6702,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : une collecte de vêtements.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "une collecte de vêtements",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: a clothing collection.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "a clothing collection",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6375,33 +6739,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : un soutien scolaire.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "un soutien scolaire",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: tutoring support.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "tutoring support",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6410,33 +6776,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Solidarité et entraide",
-      "context": "Contexte : un accès numérique.",
-      "action": "a demandé une aide ponctuelle, en remplissant les critères habituels; la même ressource est disponible pour tous.",
+      "context": "un accès numérique",
+      "action": "demande une aide ponctuelle. Tous les critères sont remplis. L’aide est disponible.",
       "identities": [
         "une personne de votre région",
         "une personne d’une autre région"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Solidarity and helping",
-      "context": "Setting: digital access.",
-      "action": "requested one-off help while meeting the usual criteria; the same resource is available to everyone.",
+      "context": "digital access",
+      "action": "asks for one-off help. All requirements are met. The help is available.",
       "identities": [
         "a person from your region",
         "a person from another region"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6445,33 +6813,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : un événement culturel.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un événement culturel",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a cultural event.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a cultural event",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6480,33 +6850,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : une rencontre sportive.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une rencontre sportive",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a sporting event.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a sporting event",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6515,33 +6887,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : un salon professionnel.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un salon professionnel",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a trade fair.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a trade fair",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6550,33 +6924,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : un festival.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "un festival",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a festival.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a festival",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6585,33 +6961,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : une conférence.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une conférence",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a conference.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a conference",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6620,33 +6998,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : une cérémonie.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une cérémonie",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a ceremony.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a ceremony",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6655,33 +7035,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : une visite guidée.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une visite guidée",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a guided tour.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a guided tour",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6690,33 +7072,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Pouvoir et célébrité",
-      "context": "Contexte : une représentation.",
-      "action": "a exigé une exception à une règle annoncée à tous, sans justification particulière. Les faits sont établis, sans autre circonstance aggravante ou atténuante connue.",
+      "context": "une représentation",
+      "action": "exige une exception à une règle connue de tous. Sans raison particulière.",
       "identities": [
         "une célébrité",
         "une personne anonyme"
       ],
       "options": [
-        "Une sanction importante",
-        "Une sanction modérée",
-        "Un avertissement",
+        "Grosse sanction",
+        "Sanction légère",
+        "Avertissement",
         "Aucune sanction"
-      ]
+      ],
+      "prompt": "Quelle sanction ?"
     },
     "en": {
       "title": "Power and fame",
-      "context": "Setting: a performance.",
-      "action": "demanded an exception to a rule announced to everyone, without a particular justification. The facts are established, with no other known aggravating or mitigating circumstances.",
+      "context": "a performance",
+      "action": "demands an exception to a rule everyone knows. No particular reason.",
       "identities": [
         "a celebrity",
         "an ordinary person"
       ],
       "options": [
-        "A substantial penalty",
-        "A moderate penalty",
-        "A warning",
+        "Strong penalty",
+        "Light penalty",
+        "Warning",
         "No penalty"
-      ]
+      ],
+      "prompt": "What penalty?"
     }
   },
   {
@@ -6725,33 +7109,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : une réunion de quartier.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "une réunion de quartier",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a neighbourhood meeting.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a neighbourhood meeting",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6760,33 +7146,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un atelier professionnel.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un atelier professionnel",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a professional workshop.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a professional workshop",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6795,33 +7183,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un comité culturel.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un comité culturel",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a cultural committee.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a cultural committee",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6830,33 +7220,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un collectif écologique.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un collectif écologique",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: an environmental group.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "an environmental group",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6865,33 +7257,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un club de sport.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un club de sport",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a sports club.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a sports club",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6900,33 +7294,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un conseil associatif.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un conseil associatif",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: an association board.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "an association board",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6935,33 +7331,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : un groupe de recherche.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "un groupe de recherche",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a research group.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a research group",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   },
   {
@@ -6970,33 +7368,35 @@ export const scenarios = [
     "sensitive": false,
     "fr": {
       "title": "Âge et crédibilité",
-      "context": "Contexte : une coopérative.",
-      "action": "a proposé une amélioration appuyée par des données vérifiables; le groupe doit décider s’il l’examine.",
+      "context": "une coopérative",
+      "action": "propose une idée appuyée par des données vérifiables. Faut-il l’étudier ?",
       "identities": [
         "une personne de 23 ans",
         "une personne de 63 ans"
       ],
       "options": [
-        "Accepter la demande",
-        "Examiner la demande selon les critères habituels",
-        "Demander des garanties supplémentaires",
-        "Refuser la demande"
-      ]
+        "Accepter",
+        "Vérifier les critères",
+        "Demander plus de garanties",
+        "Refuser"
+      ],
+      "prompt": "Tu acceptes ?"
     },
     "en": {
       "title": "Age and credibility",
-      "context": "Setting: a cooperative.",
-      "action": "proposed an improvement supported by verifiable data; the group must decide whether to examine it.",
+      "context": "a cooperative",
+      "action": "suggests an idea backed by verifiable data. Should it be considered?",
       "identities": [
         "a 23-year-old person",
         "a 63-year-old person"
       ],
       "options": [
-        "Accept the request",
-        "Assess it using the usual criteria",
-        "Require additional assurances",
-        "Refuse the request"
-      ]
+        "Accept",
+        "Check the criteria",
+        "Ask for more assurances",
+        "Refuse"
+      ],
+      "prompt": "Would you accept?"
     }
   }
 ];

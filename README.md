@@ -1,5 +1,7 @@
 # Deux poids, deux mesures
 
+Interface mobile avec réponses en grille 2 × 2, retour visuel au toucher, questions courtes et détails des résultats dépliables.
+
 Application statique bilingue français/anglais : dix questions, cinq paires comparables, révélation finale et partage du tirage exact. Aucun compte, serveur de résultats, suivi, stockage des réponses ou API payante. Les réponses restent en mémoire dans l’onglet. Les polices sont locales.
 
 ## Développement
