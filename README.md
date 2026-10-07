@@ -21,13 +21,13 @@ npm run build
 npx playwright test
 ```
 
-Les tests navigateur utilisent Chromium installé dans `/usr/bin/chromium` dans cet environnement. Adapter `playwright.config.js` sur une autre machine. Le dossier `dist/` est publiable sur un hébergeur statique. Le site n’a pas encore été déployé.
+Les tests navigateur utilisent Chromium installé dans `/usr/bin/chromium` dans cet environnement. Adapter `playwright.config.js` sur une autre machine. Le dossier `dist/` est publiable sur un hébergeur statique. Le site est publié sur https://tomwillg.github.io/Ai/.
 
 ## Scénarios
 
-`src/scenarios.js` contient 200 entrées bilingues : 25 familles thématiques, avec huit contextes par famille. Chaque entrée isole deux identités et conserve exactement les mêmes faits et les mêmes choix. La banque utilise des structures communes par famille, et peut être enrichie éditorialement pour varier davantage les formulations. Les sujets graves sont non graphiques et évitables. Les résultats ne constituent pas un diagnostic ou un instrument scientifique validé.
+`src/scenarios.js` contient 200 dilemmes bilingues : 25 thèmes avec huit situations distinctes par thème. Chaque entrée isole deux identités et conserve exactement les mêmes faits et les mêmes choix. Chaque scène met en balance plusieurs priorités (règle, exception, coût, vérification, délai) avec quatre actions concrètes. La pertinence psychologique de cette rédaction n’a pas fait l’objet d’une validation scientifique. Les sujets graves sont non graphiques et évitables. Les résultats ne constituent pas un diagnostic ou un instrument scientifique validé.
 
-Le tirage sélectionne cinq thèmes distincts. Les deux versions d’une situation sont séparées par quatre questions. Un remplacement modifie les deux versions avant la première réponse; une paire déjà commencée ne peut plus être remplacée. Le mode sans violence exclut agressions, violences sexuelles et abus sur mineurs.
+Le tirage sélectionne cinq thèmes distincts. L’ordre de la seconde moitié varie. Au moins deux autres questions séparent les deux versions d’une situation. La place des options change entre les variantes, tout en gardant leurs identifiants sémantiques pour comparer les réponses. Un remplacement modifie les deux versions avant la première réponse; une paire déjà commencée ne peut plus être remplacée. Le mode sans violence exclut agressions, violences sexuelles et abus sur mineurs.
 
 Les liens de défi encodent les dix questions et leur ordre, jamais les réponses. Conserver les identifiants et l’ordre de la banque pour ne pas invalider les liens existants.
 

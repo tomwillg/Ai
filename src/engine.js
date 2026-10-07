@@ -3,8 +3,22 @@ export function rng(seed){let a=seed>>>0;return()=>{a+=0x6D2B79F5;let t=a;t=Math
 export function shuffle(values,random){const a=[...values];for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 export function newSeed(){return crypto.getRandomValues(new Uint32Array(1))[0]}
 export function makeDraw(seed,gentle=false){const random=rng(seed);const pool=scenarios.filter(s=>!gentle||!s.sensitive);const themes=shuffle([...new Set(pool.map(s=>s.theme))],random).slice(0,5);const selected=themes.map(t=>{const items=pool.filter(s=>s.theme===t);return items[Math.floor(random()*items.length)]});return makeQuestions(selected,random)}
-export function makeQuestions(selected,random){const order=shuffle(selected,random);const first=order.map(s=>({id:s.id,variant:random()<.5?0:1}));const second=first.map(q=>({...q,variant:1-q.variant}));return [...first,...second]}
+export function makeQuestions(selected,random){const order=shuffle(selected,random);const first=order.map(s=>({id:s.id,variant:random()<.5?0:1}));const candidates=[];
+function arrange(order,remaining){if(!remaining.length){if(order.some((v,i)=>v!==i))candidates.push(order);return}for(const v of remaining){if(first.length+order.length-v>=3)arrange([...order,v],remaining.filter(x=>x!==v))}}
+arrange([],first.map((_,i)=>i));
+const secondOrder=candidates.length?candidates[Math.floor(random()*candidates.length)]:first.map((_,i)=>i);
+const second=secondOrder.map(i=>({...first[i],variant:1-first[i].variant}));return [...first,...second]}
 export function replacePair(questions,index,seed){const old=questions[index].id;const used=new Set(questions.map(q=>scenarios.find(s=>s.id===q.id).theme));const pool=scenarios.filter(s=>!s.sensitive&&!used.has(s.theme));const r=rng(seed+index+questions.reduce((n,q)=>n+q.id.length,0));const next=pool[Math.floor(r()*pool.length)];return questions.map(q=>q.id===old?{...q,id:next.id}:q)}
 export function compare(questions,answers){return [...new Set(questions.map(q=>q.id))].map(id=>{const positions=questions.map((q,i)=>q.id===id?i:-1).filter(i=>i>=0);const selected=[0,1].map(v=>answers[positions.find(i=>questions[i].variant===v)]);return {scenario:scenarios.find(s=>s.id===id),selected,changed:selected[0]!==selected[1]}})}
 export function encodeDraw(questions){return questions.map(q=>`${scenarios.findIndex(s=>s.id===q.id)}.${q.variant}`).join('-')}
 export function decodeDraw(encoded){if(!encoded||encoded.length>200)return null;const parts=encoded.split('-');if(parts.length!==10)return null;const q=parts.map(p=>{if(!/^\d{1,3}\.[01]$/.test(p))return null;const [i,v]=p.split('.').map(Number);return scenarios[i]?{id:scenarios[i].id,variant:v}:null});if(q.some(x=>!x))return null;const ids=[...new Set(q.map(x=>x.id))];if(ids.length!==5||ids.some(id=>q.filter(x=>x.id===id).length!==2||new Set(q.filter(x=>x.id===id).map(x=>x.variant)).size!==2))return null;return q}
+// Keep semantic answer IDs stable while moving their on-screen positions.
+// Both variants have the same four choices, rotated to avoid matching by position.
+export function optionOrder(questions,index){
+ const signature=questions.map(q=>`${q.id}:${q.variant}`).join('|');
+ let hash=2166136261;
+ for(const c of signature+'|'+questions[index].id){hash=Math.imul(hash^c.charCodeAt(0),16777619)>>>0}
+ const order=shuffle([0,1,2,3],rng(hash));
+ const shift=questions[index].variant===0?0:1+hash%3;
+ return order.slice(shift).concat(order.slice(0,shift));
+}
